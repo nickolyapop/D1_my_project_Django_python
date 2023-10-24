@@ -1,0 +1,2 @@
+# D1_my_project_Django_python
+Skillfactory practick
